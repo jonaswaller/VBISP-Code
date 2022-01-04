@@ -6,5 +6,5 @@ This repository displays code from my research during the 2021 [Vanderbilt Biome
 	
 For privacy reasons, I cannot share the dataset (collection of clinical notes), nor the actual notebooks used for the preprocessing of the data; however, I’ve selected a few snippets that were particularly useful. Please see the notebooks for more informative comments. 
 
-![txt](https://github.com/StuartWaller/VBISP-Codect/blob/master/image%20sampling/renders/0230render1.jpg)
+![txt](https://github.com/stuartwaller/VBISP-Code/blob/master/Sample%20BERT%20Model/Sample.png)
 
