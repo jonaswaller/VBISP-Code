@@ -6,7 +6,7 @@ For privacy reasons, I cannot share the dataset (collection of clinical notes), 
 ### *Further_Dataset_Preprocessing*
 Same story here. 
 - The sample notebook contains more informative comments while the pdf is just aesthetically pleasing. 
-### *Sample BERT* 
+### *Sample BERT Model* 
 I've shared the original notebooks as they do not contain any sensitive data. 
 ### *Questions?*
 **Feel free to email me and/or view the attached abstract for a more concise summary!**
