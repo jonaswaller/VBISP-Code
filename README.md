@@ -8,7 +8,8 @@ Same story here.
 - The sample notebook contains more informative comments while the pdf is just aesthetically pleasing. 
 ### *Sample BERT* 
 I've shared the original notebooks as they do not contain any sensitive data. 
-![txt](https://github.com/stuartwaller/VBISP-Code/blob/master/Sample%20BERT%20Model/Sample.png)
 ### *Questions?*
-Feel free to email me and/or view the attached abstract for a more concise summary!
+**Feel free to email me and/or view the attached abstract for a more concise summary!**
+![txt](https://github.com/stuartwaller/VBISP-Code/blob/master/Sample%20BERT%20Model/Sample.png)
+
 
